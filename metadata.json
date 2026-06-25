@@ -1,0 +1,6 @@
+{
+  "name": "Depth",
+  "description": "An AI thinking companion app designed to help you find clarity and reflect on your questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
